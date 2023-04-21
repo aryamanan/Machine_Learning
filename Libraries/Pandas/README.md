@@ -1,4 +1,4 @@
-### About Pandas
+# About Pandas
 
 - Pandas is a Python library used for working with datasets (called Dataframes) ie tabular data and arrays/1D data (called Series)
 
