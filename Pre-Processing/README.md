@@ -1,7 +1,7 @@
 # Data Preprocessing
 
 - The Process of cleaning, transforming, and organizing raw data to make it suitable for analysis.
-- It involves several steps, including Data Cleaning, Data Transformation, and Data integration.
+- It involves several steps, including `Data Cleaning`, `Data Transformation`, and `Data integration`.
 
 ### Why is it needed?
 - Raw data often contains inconsistencies, errors, missing values, and noise that can make it difficult or impossible to analyze.
